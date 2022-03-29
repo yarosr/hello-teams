@@ -1,0 +1,1 @@
+Budget Tracking Bot. We can keep track of the expenses and customize spending categories. It will send how much money we have remaining for the day/month.
